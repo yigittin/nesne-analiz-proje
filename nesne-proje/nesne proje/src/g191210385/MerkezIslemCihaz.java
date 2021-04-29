@@ -6,11 +6,13 @@ import java.sql.SQLException;
 public class MerkezIslemCihaz implements IMerkezIslemCihaz {
 	private final ISicaklikAlgilayici sicaklikAlgilayici;
 	private final IEyleyici eyleyici;
+	private final IEyleyici eyleyici2;
 	private final ISubject publisher;
 	
 	MerkezIslemCihaz(){
 	  this.sicaklikAlgilayici=new SicaklikAlgilayici();
 	  this.eyleyici=new Eyleyici();
+	  this.eyleyici2=new EyleyiciDIP();
 	  this.publisher=new Publisher();
 	}
 	private int kritikSicaklik=40;

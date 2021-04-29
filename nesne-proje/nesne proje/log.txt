@@ -1,0 +1,12 @@
+2021-04-29T21:52:19.848461800 User : yigittin Uygulamaya Giriþ Yaptý
+2021-04-29T21:54:16.867600300 User : yigittin Uygulamaya Giriþ Yaptý
+2021-04-29T21:54:50.994303700 User : yigittin Uygulamaya Giriþ Yaptý
+2021-04-29T21:55:22.891980500 User : yigittin Uygulamaya Giriþ Yaptý
+2021-04-29T21:56:08.982902900 User : yigittin Uygulamaya Giriþ Yaptý
+2021-04-29T21:56:08.983900100 User : yigittin Uygulamadan Çýkýþ Yaptý
+2021-04-29T21:56:10.995213200 User : yigittin Uygulamadan Çýkýþ Yaptý
+2021-04-29T21:56:41.770645900 User : yigittin Uygulamaya Giriþ Yaptý
+2021-04-29T21:56:43.588013200 User : yigittin Uygulamadan Çýkýþ Yaptý
+2021-04-29T21:58:09.453085100 User : yigittin Uygulamaya Giriþ Yaptý
+2021-04-29T21:58:15.261738 User : yigittin Soðutucuyu Açtý
+2021-04-29T21:58:18.521470700 User : yigittin Uygulamadan Çýkýþ Yaptý
